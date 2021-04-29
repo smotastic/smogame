@@ -4,6 +4,6 @@
 
 ## AF-9001 - Boost einsetzen
 
-- Nach eingesetztem Boost kann nächster Boost erst wieder eingesetzt werden, nachdem die Zeit vergangen ist, die der Boost erspart hat.
+- Nach eingesetztem Boost kann nächster Boost erst wieder eingesetzt werden, nachdem die Zeit vergangen ist, die der Boost eingespart hat.
 
 # Nicht Funktionale Anforderungen
